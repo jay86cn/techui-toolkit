@@ -33,6 +33,9 @@ The main functions of TUI-TK in this repository are as follows:
 - Use PanelGyro to 3D part of the Dom
 - Use EchartsInit to initialize the chart
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UTC35fe80zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 **If you don't need the above features, you can strip TUI-TK in the current project and use only the source code part. Except for TUI-TK, the rest of the code can be used for free commercial use.**
 
 
