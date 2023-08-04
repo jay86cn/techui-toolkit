@@ -60,9 +60,9 @@ For the technical implementation of the pure front-end license, please refer to 
 
 There are two types of licenses:
 
-- **Limited term license**
+- **Term License**
    - Valid for a limited time
-- **PERMANENT LICENSE**
+- **Permanent License**
    - Once issued, it is valid for life
 
 When generating a license, the authorization scope is specified, such as China or worldwide or other (global scope means no restrictions).
