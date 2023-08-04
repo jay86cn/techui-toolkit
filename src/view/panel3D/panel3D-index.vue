@@ -4,6 +4,7 @@ import panel3DHive from "./panel3DHive.vue"
 import panel3DUnity from "./panel3DUnity.vue"
 import panel3DHover from "./panel3DHover.vue"
 import panel3DHiveApart from "./panel3DHiveApart.vue"
+ import withAlert from "@/components/widthAlert-pc.vue"
 const state=reactive({
   activeName:"matrix",
   tabs:[
@@ -12,17 +13,22 @@ const state=reactive({
     {name:"Unity",label:"unity"},
     {name:"Hover",label:"hover"},
     {name:"HiveApart",label:"hiveApart"},
+    {name:"MobileDemo",label:"mobile"},
   ]
 })
-
+const router=useRouter()
 const handleClick=(item)=>{
   state.activeName=item.label;
+  if(item.label=='mobile'){
+    router.push("/layout");
+  }
 }
 
 </script>
 <template>
-   <div class="panel3D-demo" >
-     <div class="tabs-wrap" >
+  <div class="panel3D-demo" >
+    <withAlert></withAlert>
+    <div class="tabs-wrap" >
       <div v-for="(item,index) in state.tabs" :class="`item ${item.label==state.activeName?'active':'deactive'}`"  @click="handleClick(item)">{{item.name}}</div>
     </div>
     <div class="tab-content">

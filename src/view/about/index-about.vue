@@ -16,12 +16,12 @@ const outerLinks=[
 const about={
   title:"About TechUI-toolkit",
   desc:[
-    "This toolkit is a lib of components extracted from the techui-vue data visualization framework.",
+    "This toolkit is a lib of components extracted from the techui data visualization framework.",
     "All codes of this app are open source, except the toolkit, which requires authorization to use.",
-    "Give star to my github repositories to get a 1-year toolkit temporary license"
+    "Give star to my github repositories to get a 1-year toolkit license for free."
   ],
   mail:"ayin86cn@gmail.com",
-  notice:"You can find more contact information and how to get a free license in github or docs!"
+  notice:"Find more information and how to get a free license in github or docs!"
 }
 
 const state=reactive({
@@ -88,7 +88,7 @@ onMounted(() => {
 <style lang="less">
 .about-wrap{.bgc(@gyl1); // padding:20px 0 0 0;
   .img-wrap{ margin:20px;
-    .about-inner{.poa; .fullbox; top:auto; .fc(@wh);  text-align: center;  .bglg(fade(@bk,0%),fade(@bk,90%),180deg); .bdr(0 0 10px 10px); padding:100px 10px 10px 10px;
+    .about-inner{.poa; .fullbox; top:auto; .fc(@wh);  text-align: center;  .bglg(fade(@bk,0%),fade(@bk,100%),180deg); .bdr(0 0 10px 10px); padding:80px 10px 10px 10px;
       .title{font-size: 16px; font-weight: bold; margin:0 0 10px 0;}
       .desc{font-size: 14px; line-height: 15px;margin:0 0 10px 0;}
     }

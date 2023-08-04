@@ -1,4 +1,5 @@
 <script setup>
+ import withAlert from "@/components/widthAlert-mobile.vue"
 const router=useRouter();
 const username = ref('admin');
 const password = ref('tesT!@#$%^&^&&*()');
@@ -16,6 +17,7 @@ const state=reactive({
 
 <template>
   <adaptivePanel :config="state.adaptivePanelConfig">
+    <withAlert></withAlert>
     <van-form class="login-form" @submit="onSubmit">
       <div class="logo-wrap">
         <img class="logo" src="/logo.svg" alt="">

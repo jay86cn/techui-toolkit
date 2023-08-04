@@ -124,7 +124,7 @@
       </van-grid-item>
     </van-grid>
     
-    <div class="group-title">Focus on core indicators Top5</div>
+    <div class="group-title">Focus on core indicators Top6</div>
     <div class="cell-wrap">
       <van-cell-group inset>
         <van-cell v-for="item in state.listData" :title="item.title" is-link :value="item.val+item.unit" />

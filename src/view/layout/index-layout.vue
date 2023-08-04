@@ -5,6 +5,7 @@
   import card from "../card/index-card.vue"
   import chart from "../chart/index-chart.vue"
   import about from "../about/index-about.vue"
+  import withAlert from "@/components/widthAlert-mobile.vue"
   const active = ref(0);
   const tabChange=(val)=>{
     // console.log("tabChange",active.value,val);
@@ -27,6 +28,7 @@
 
 <template>
   <adaptivePanel :config="state.adaptivePanelConfig">
+    <withAlert></withAlert>
     <div class="layout-wrap">
       <div class="content-wrap">
         <home v-if="active==0"></home>
