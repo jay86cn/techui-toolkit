@@ -38,6 +38,8 @@ TUI-TK在本仓库中，的主要作用为如下几点：
 - [ayin-color](https://github.com/ayin86)
 - [ayin-lessmixins](https://github.com/ayin86/ayin-lessmixins)
 
+请把你点亮Star后的截图和您的github账户名，发送到ayin86cn@gmail.com，获取免费的许可证。
+
 -----
 
 **我此前写了一个较为复杂的纯前端许可证用来保护TechUI-Core的版权，基于TUI-TK实现了另外一套逻辑较为简单的许可证功能，主要目的其实并不是为了保护TUI-TK，而仅仅为了技术验证。**

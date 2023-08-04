@@ -46,6 +46,8 @@ The main functions of TUI-TK in this repository are as follows:
 - [ayin-color](https://github.com/ayin86)
 - [ayin-lessmixins](https://github.com/ayin86/ayin-lessmixins)
 
+Please send the screenshot of stars after lighting up and your github account name to ayin86cn@gmail.com to get a free license.
+
 -----
 
 **I wrote a more complex pure front-end license to protect the copyright of TechUI-Core. Based on TUI-TK, I implemented another license function with simpler logic. The main purpose is not to protect TUI-TK , but only for technical verification.**
