@@ -23,7 +23,7 @@
 
 ## 🛡️ Declaration
 
-<span style="color:red">**The contents of this repository are all source code, except for TechUI-Toolkit (hereinafter referred to as TUI-TK), the use of TUI-TK requires authorization. ** </span>
+<span style="color:red">**The contents of this repository are all source code, except for TechUI-Toolkit (hereinafter referred to as TUI-TK), the use of TUI-TK requires authorization.** </span>
 
 
 
@@ -33,7 +33,7 @@ The main functions of TUI-TK in this repository are as follows:
 - Use PanelGyro to 3D part of the Dom
 - Use EchartsInit to initialize the chart
 
-**If you don't need the above features, you can strip TUI-TK in the current project and use only the source code part. Except for TUI-TK, the rest of the code can be used for free commercial use. **
+**If you don't need the above features, you can strip TUI-TK in the current project and use only the source code part. Except for TUI-TK, the rest of the code can be used for free commercial use.**
 
 
 
@@ -56,7 +56,7 @@ For the technical implementation of the pure front-end license, please refer to 
 
 ## 📑 License Description
 
-**This repository has a built-in 1-year limited license, which is used for testing and experience, and cannot be used for commercial authorization. **
+**This repository has a built-in 1-year limited license, which is used for testing and experience, and cannot be used for commercial authorization.**
 
 There are two types of licenses:
 
@@ -133,11 +133,11 @@ For the introduction and usage of the development kit, please refer to [Document
 
 **About the price of TechUI-Toolkit license:**
 
-**For only $30, you can get an unlimited license for perpetual company-wide use. **
+**For only $30, you can get an unlimited license for perpetual company-wide use.**
 
-**For only $99, you can get an unlimited license that can be used permanently on any project worldwide. **
+**For only $99, you can get an unlimited license that can be used permanently on any project worldwide.**
 
-**Once the permanent license is issued, it cannot be withdrawn, so refunds are not supported, testing and experience can also be carried out without a license. **
+**Once the permanent license is issued, it cannot be withdrawn, so refunds are not supported, testing and experience can also be carried out without a license.**
 
 If you encounter any problems, please submit issues on github。
 
