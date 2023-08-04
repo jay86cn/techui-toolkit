@@ -29,7 +29,7 @@ export default defineConfig({
           @import "${path.resolve(__dirname, './node_modules/ayin-color/ayin-color.less')}";
           @import "${path.resolve(__dirname, './node_modules/ayin-color/ayin-color-expand.less')}";
           `
-          //引入的less全局变量，来自于开源组件ayin-color和ayin-lessmixins，访问https://www.npmjs.com/package/ayin-color 查看相关信息
+          //The imported less global variable comes from the open source components ayin-color and ayin-lessmixins, visit https://www.npmjs.com/package/ayin-color to view related information
       }
     }
   },
