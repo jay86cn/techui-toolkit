@@ -1,0 +1,29 @@
+{
+  "name": "toolkit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.3.5",
+    "ayin-color": "^1.0.9",
+    "ayin-lessmixins": "^1.0.7",
+    "echarts": "^5.4.2",
+    "techui-vue3-toolkit": "^1.1.7",
+    "vant": "^4.6.2",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.1",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
+    "vite": "^4.3.9"
+  }
+}
