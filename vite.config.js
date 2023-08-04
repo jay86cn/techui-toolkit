@@ -41,24 +41,5 @@ export default defineConfig({
     vue(),
     basicSsl()
   ],
-  build: {
-    minify: true,
-    // terserOptions: {
-    //   keep_classnames: true,
-    //   keep_fnames: true,
-    // },
-    lib: {
-      entry: path.resolve(__dirname, 'package/techui-vue3-toolkit-source/build.js'),
-      name: 'techui-vue3-toolkit',
-    },
-    rollupOptions: {
-      external: ['vue'],
-      output: {
-        minifyInternalExports: true, // 对内部导出的代码进行压缩
-        globals: {
-          vue: 'Vue'
-        }
-      }
-    }
-  }
+
 })
