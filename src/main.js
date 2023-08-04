@@ -6,7 +6,9 @@ import store from './store'
 import * as echarts from 'echarts';
 window.echarts=echarts;
 
-import TechUIToolkit from "techui-vue3-toolkit"
+// import TechUIToolkit from "../package/techui-vue3-toolkit-source/index"
+import TechUIToolkit from "../publish/techui-vue3-toolkit/index"
+// import TechUIToolkit from "techui-vue3-toolkit"
 import "./utils/license.js"
 
 import vue3api from '@/plugins/vue3api'

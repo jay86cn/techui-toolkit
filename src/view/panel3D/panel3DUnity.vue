@@ -69,14 +69,11 @@ export default {
   },
   mounted() {
     this.boar3dConfig.view3d=this.globalConfig.panel3D
-    // this.$timer("B3DLoading",()=>{
-    //   this.adptivePanelConfig.loading=false
-    // },1000)
   },
 };
 </script> 
 <style lang="less">
-.panel3D-test-unity-wrap{.poa; .fullbox(50px); //transform: perspective(1000px) translateZ(-100px); //.bd(@cyA10); 
+.panel3D-test-unity-wrap{.poa; .fullbox(50px); 
   .panel-3d{.poa; .fullbox(50px); }
   .demo-box{ .poa; .fullbox; .bgc(@bll7); .bdr(10px); .bd(@cyl5,3px);
     .inner-box{}
@@ -84,7 +81,7 @@ export default {
   
 }
 .gridDemoMax {.poa; .fullbox(40px);.grid(5,3,60px);
-  //grid-auto-rows: minmax(100px, 200px);//声明行的高度
+  //grid-auto-rows: minmax(100px, 200px);
   .item{position: relative; padding:20px; .bdr(10px);
     
   }

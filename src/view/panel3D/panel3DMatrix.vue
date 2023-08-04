@@ -76,7 +76,7 @@ export default {
 </script> 
 <style lang="less">
 .panel3D-view-toggle{.absoluteCenter; z-index: 10;}
-.panel3D-test-matrix-wrap{.poa; .fullbox(50px); //transform: perspective(1000px) translateZ(-100px); //.bd(@cyA10); 
+.panel3D-test-matrix-wrap{.poa; .fullbox(50px); 
   .demo-box{ .poa; .fullbox; .bgc(@bll7); .bdr(10px); .bd(@cyl5,3px);
     .inner-box{}
   }

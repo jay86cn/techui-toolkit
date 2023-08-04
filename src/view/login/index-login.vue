@@ -1,10 +1,9 @@
 <script setup>
 const router=useRouter();
 const username = ref('admin');
-const password = ref('test');
+const password = ref('tesT!@#$%^&^&&*()');
 const onSubmit = (values) => {
   router.push("/layout");
-  console.log('submit', values);
 };
 const state=reactive({
   adaptivePanelConfig:{

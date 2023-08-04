@@ -1,5 +1,10 @@
 <script setup>
-
+const state=reactive({
+  adaptivePanelConfig:{
+    mode:"scroll",
+    width:420,
+  }
+})
 </script>
 
 <template>

@@ -22,10 +22,6 @@ export const http = (method, url, params = {},loading) => {
     })
     .then(res => {
         if(res.status==200){
-            // if(!res.data.success){
-            //     // showMessage(res.data.errorMessage, "error")
-            // }else{
-            // }
             resolve(res.data);
         }else{
             console.error('axiosThen',res)
@@ -35,8 +31,6 @@ export const http = (method, url, params = {},loading) => {
     .catch(err => {
         console.error('axiosCatch',err);
         reject(err);
-        // ElMessage({ message: "提交失败", showClose: true, center: true, duration: 2000, type:'error' });
-        // !loadingDisable&&hideLoading()
     })
   })
 };

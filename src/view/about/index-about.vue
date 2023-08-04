@@ -39,7 +39,6 @@ const state=reactive({
 })
 
 const innerClick=(item)=>{
-  // console.log("item",item);
   if(item.href.includes("#")){
     window.open(item.href);
   }else{
@@ -47,7 +46,6 @@ const innerClick=(item)=>{
   }
 }
 const outerClick=(item)=>{
-  // console.log("item",item);
   window.open(item.href);
 }
 
