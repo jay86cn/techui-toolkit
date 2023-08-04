@@ -65,7 +65,7 @@ There are two types of licenses:
 - **Permanent License**
    - Once issued, it is valid for life
 
-When generating a license, the authorization scope is specified, such as China or worldwide or other (global scope means no restrictions).
+When generating a license, the authorization scope is specified, such as China or worldwide or designated company (global scope means no restrictions).
 
 **If the license expires, or if there is no license**, TUI-TK can also run normally. Every time you enter the page, a temporary key will be generated with a validity period of 10 minutes. After the expiration, some components cannot be used normally. At this time, you only need to close the current window and open it again, or clear the sessionStroage and refresh current page.
 
