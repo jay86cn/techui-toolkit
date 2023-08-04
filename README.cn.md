@@ -40,7 +40,7 @@ TUI-TK在本仓库中，的主要作用为如下几点：
 
 -----
 
-**我此前写了一个较为复杂的纯前端许可证用来保护TechUI-Core的版权，基于TUI-TK实现了另外一套逻辑较为简单的许可证系统，主要目的其实并不是为了保护TUI-TK，而仅仅为了技术验证。**
+**我此前写了一个较为复杂的纯前端许可证用来保护TechUI-Core的版权，基于TUI-TK实现了另外一套逻辑较为简单的许可证功能，主要目的其实并不是为了保护TUI-TK，而仅仅为了技术验证。**
 
 关于纯前端许可证的技术实现方式，请参考我的 [Youtube频道](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) 普通话含中英文字幕。
 

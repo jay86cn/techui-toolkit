@@ -47,7 +47,7 @@ The main functions of TUI-TK in this repository are as follows:
 
 -----
 
-**I wrote a more complex pure front-end license to protect the copyright of TechUI-Core. Based on TUI-TK, I implemented another license system with simpler logic. The main purpose is not to protect TUI-TK , but only for technical verification.**
+**I wrote a more complex pure front-end license to protect the copyright of TechUI-Core. Based on TUI-TK, I implemented another license function with simpler logic. The main purpose is not to protect TUI-TK , but only for technical verification.**
 
 For the technical implementation of the pure front-end license, please refer to my [Youtube Channel](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) in Mandarin with Chinese and English subtitles.
 
@@ -122,14 +122,14 @@ For the introduction and usage of the development kit, please refer to [Document
 -----
 
 
-## 🛠️ Compatibility and Nodejs version
+## 🛠️ Compatibility and Nodejs
 
 1. nodejs 16-18 is well supported, other versions have not been tested
 2. All mainstream browsers except IE are well supported, including mobile browsers.
 
 -----
 
-## 🌟 Cooperation negotiation
+## 🌟 Cooperation
 
 **About the price of TechUI-Toolkit license:**
 
