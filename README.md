@@ -54,16 +54,19 @@ Please send the screenshot of stars after lighting up and your github account na
 
 **panelGyro**
 For the 3D panel on the mobile terminal, use the gyroscope of the mobile terminal device to realize the 3D interaction of Dom elements.
+
 <img src="./demoImage/panelGyro.gif" width="500" />
 
 
 **adaptivePanel**
 Adaptive components, without writing complex responsive CSS code, can achieve perfect adaptation between devices with different resolutions.
+
 <img src="./demoImage/adaptivePanel.gif" width="500" />
 
 
 **panel3D**
 For the 3D panel on the PC side, use the cursor to interact, and any Dom element can be converted into a 3D view element.
+
 <img src="./demoImage/panel3D.gif" width="1000" />
 
 -----
