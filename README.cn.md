@@ -42,6 +42,24 @@ TUI-TK在本仓库中，的主要作用为如下几点：
 
 -----
 
+### 以下是一些演示Gif动画
+
+**panelGyro**
+针对移动端的3D面板，使用移动端设备的陀螺仪来实现Dom元素的3D交互。
+<img src="./demoImage/panelGyro.gif" width="500" />
+
+
+**adaptivePanel**
+自适应组件，无需写复杂的响应式CSS代码，即可做到不同分辨率之间的设备完美自适应。
+<img src="./demoImage/adaptivePanel.gif" width="500" />
+
+
+**panel3D**
+针对PC端的3D面板，使用光标进行交互，可以使任何Dom元素转换为3D视图元素。
+<img src="./demoImage/panel3D.gif" width="1000" />
+
+-----
+
 **我此前写了一个较为复杂的纯前端许可证用来保护TechUI-Core的版权，基于TUI-TK实现了另外一套逻辑较为简单的许可证功能，主要目的其实并不是为了保护TUI-TK，而仅仅为了技术验证。**
 
 关于纯前端许可证的技术实现方式，请参考我的 [Youtube频道](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) 普通话含中英文字幕。
