@@ -52,7 +52,7 @@ Please send the screenshot of stars after lighting up and your github account na
 -----
 ## ▶️Preview and video intro
 
-For a preview of the current toolkit, please check [Demo📱](https://toolkit.techui.net/#/layout)
+For a preview of the current toolkit, please check [📱toolkit.techui.net](https://toolkit.techui.net/#/layout)
 
 For the video introduction of the current tool library, please check my [Youtube Channel](https://youtu.be/jxVCdl2A_M0), in Mandarin with Chinese and English subtitles.
 
