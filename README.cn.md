@@ -49,7 +49,7 @@ TUI-TK在本仓库中，的主要作用为如下几点：
 
 当前工具库的视频介绍，请查看我的[Youtube频道](https://youtu.be/jxVCdl2A_M0)，普通话含中英文字幕。
 
-关于纯前端许可证的技术实现方式，请参考我的 [Youtube频道](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) 普通话含中英文字幕。
+关于纯前端许可证的技术实现方式，请参考 [纯前端许可证播放列表](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) 普通话含中英文字幕。
 
 -----
 ### 以下是一些演示Gif动画
