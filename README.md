@@ -56,7 +56,7 @@ For a preview of the current toolkit, please check [📱toolkit.techui.net](http
 
 For the video introduction of the current tool library, please check my [Youtube Channel](https://youtu.be/jxVCdl2A_M0), in Mandarin with Chinese and English subtitles.
 
-For the technical implementation of the pure front-end license, please refer to my [Pure Frontend License Playlist](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) in Mandarin with Chinese and English subtitles.
+For the technical implementation of the pure front-end license, please refer to [Pure Frontend License Playlist](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) in Mandarin with Chinese and English subtitles.
 
 -----
 ### Here are some demo Gif animations
