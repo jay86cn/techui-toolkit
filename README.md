@@ -37,7 +37,7 @@ The main functions of TUI-TK in this repository are as follows:
 
 **If you don't need the above features, you can strip TUI-TK in the current project and use only the source code part. Except for TUI-TK, the rest of the code can be used for free commercial use.**
 
-
+-----
 
 **You can get the license for free, just click "Star" in my following project repository, and you can get a 1-year free license, which can be used for commercial use within the validity period.**
 
