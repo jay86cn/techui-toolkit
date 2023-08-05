@@ -50,7 +50,15 @@ The main functions of TUI-TK in this repository are as follows:
 Please send the screenshot of stars after lighting up and your github account name to ayin86cn@gmail.com to get a free license.
 
 -----
+## ▶️Preview and video intro
 
+For a preview of the current toolkit, please check [Demo📱](https://toolkit.techui.net/#/layout)
+
+For the video introduction of the current tool library, please check my [Youtube Channel](https://youtu.be/jxVCdl2A_M0), in Mandarin with Chinese and English subtitles.
+
+For the technical implementation of the pure front-end license, please refer to my [Youtube Channel](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) in Mandarin with Chinese and English subtitles.
+
+-----
 ### Here are some demo Gif animations
 
 **panelGyro**
@@ -72,13 +80,6 @@ Adaptive components, without writing complex responsive CSS code, can achieve pe
 For the 3D panel on the PC side, use the cursor to interact, and any Dom element can be converted into a 3D view element.
 
 <img src="./demoImage/panel3D.gif" width="1000" />
-
------
-
-**I wrote a more complex pure front-end license to protect the copyright of TechUI-Core. Based on TUI-TK, I implemented another license function with simpler logic. The main purpose is not to protect TUI-TK , but only for technical verification.**
-
-For the technical implementation of the pure front-end license, please refer to my [Youtube Channel](https://www.youtube.com/playlist?list=PLZ2oeruLJzZMXTRhgo-vxRqsk3sCos6F0) in Mandarin with Chinese and English subtitles.
-
 
 -----
 
