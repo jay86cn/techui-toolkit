@@ -10,10 +10,11 @@
 <p align="center">
    <a href="https://toolkit.techui.net/docs">Documentation</a> •
    <a href="https://toolkit.techui.net/">Demo Site</a> •
-   <a href="https://www.npmjs.com/package/techui-vue3-toolkit">core library</a> •
+   <a href="https://www.npmjs.com/package/techui-vue3-toolkit">Core Lib</a> •
    <a href="https://techui.net/docs">TechUI</a> •
    <a href="https://lite.techui.net/docs">TechUI-Lite</a> •
    <a href="https://t.me/ayin86cn">Telgram</a>
+   <a href="https://www.youtube.com/@ayin86cn">Youtube</a>
 </p>
 
 ## 💖Need A Remote Job
