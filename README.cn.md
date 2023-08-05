@@ -45,18 +45,21 @@ TUI-TK在本仓库中，的主要作用为如下几点：
 ### 以下是一些演示Gif动画
 
 **panelGyro**
+
 针对移动端的3D面板，使用移动端设备的陀螺仪来实现Dom元素的3D交互。
 
 <img src="./demoImage/panelGyro.gif" width="500" />
 
 
 **adaptivePanel**
+
 自适应组件，无需写复杂的响应式CSS代码，即可做到不同分辨率之间的设备完美自适应。
 
 <img src="./demoImage/adaptivePanel.gif" width="500" />
 
 
 **panel3D**
+
 针对PC端的3D面板，使用光标进行交互，可以使任何Dom元素转换为3D视图元素。
 
 <img src="./demoImage/panel3D.gif" width="1000" />
