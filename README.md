@@ -13,7 +13,7 @@
    <a href="https://www.npmjs.com/package/techui-vue3-toolkit">Core Lib</a> •
    <a href="https://techui.net/docs">TechUI</a> •
    <a href="https://lite.techui.net/docs">TechUI-Lite</a> •
-   <a href="https://t.me/ayin86cn">Telgram</a>
+   <a href="https://t.me/ayin86cn">Telgram</a> •
    <a href="https://www.youtube.com/@ayin86cn">Youtube</a>
 </p>
 
