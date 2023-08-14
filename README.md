@@ -24,7 +24,7 @@
 
 ## 🛡️ Declaration
 
-<span style="color:red">**The contents of this repository are all source code, except for TechUI-Toolkit (hereinafter referred to as TUI-TK), the use of TUI-TK requires authorization.** </span>
+<span style="color:red">**The contents of this repository are all source code, except for TechUI-Toolkit (hereinafter referred to as TUI-TK), the use of TUI-TK requires authorization.（Obtaining the authorization is completely free）** </span>
 
 
 
@@ -39,7 +39,9 @@ The main functions of TUI-TK in this repository are as follows:
 
 -----
 
-**You can get the license for free, just click "Star" in my following project repository, and you can get a 1-year free license, which can be used for commercial use within the validity period.**
+**This tool library is only for the technical realization of the simple version of the license, not for profit. So you can get a free commercial license in the following way.**
+
+**Just click "Star" in my following project repository, And you can get permanent licenses for companies or individuals, which can be used for commercial use.**
 
 - [techui-vue2](https://github.com/ayin86/techui-vue2)
 - [techui-vue3-lite](https://github.com/ayin86/techui-vue3-lite)
@@ -47,7 +49,12 @@ The main functions of TUI-TK in this repository are as follows:
 - [ayin-color](https://github.com/ayin86)
 - [ayin-lessmixins](https://github.com/ayin86/ayin-lessmixins)
 
-Please send the screenshot of stars after lighting up and your github account name to ayin86cn@gmail.com to get a free license.
+Please send the information below to ayin86cn@gmail.com to get a free license.
+
+- Screenshot of stars after lighting up 
+- Your github account name
+- Company name or personal name
+- The contact info in the license, such as email
 
 -----
 ## ▶️Preview and video intro
@@ -85,7 +92,7 @@ For the 3D panel on the PC side, use the cursor to interact, and any Dom element
 
 ## 📑 License Description
 
-**This repository has a built-in 1-year limited license, which is used for testing and experience, and cannot be used for commercial authorization.**
+**This repository has a built-in 1-year limited license, which is used for testing and experience, and cannot be used for commercial authorization. Please follow the instructions above to obtain a license for free.**
 
 There are two types of licenses:
 
@@ -159,14 +166,6 @@ For the introduction and usage of the development kit, please refer to [Document
 -----
 
 ## 🌟 Cooperation
-
-**About the price of TechUI-Toolkit license:**
-
-**For only $30, you can get an unlimited license for perpetual company-wide use.**
-
-**For only $99, you can get an unlimited license that can be used permanently on any project worldwide.**
-
-**Once the permanent license is issued, it cannot be withdrawn, so refunds are not supported, testing and experience can also be carried out without a license.**
 
 If you encounter any problems, please submit issues on github。
 
