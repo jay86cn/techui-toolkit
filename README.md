@@ -19,6 +19,7 @@ TechUI-Base is **free** and offers powerful functionality capable of meeting the
 | **TechUI-Base** | Foundational Component Library | [Gitee Link](https://gitee.com/ayin86/techui-base) | [GitHub Link](https://github.com/aYin86cn/techui-base) | Closed-Source, Free |
 | **Techui-Scifi** | Sci-Fi Style SVG Component Library | [Gitee Link](https://gitee.com/ayin86/techui-scifi) | [GitHub Link](https://github.com/aYin86cn/techui-scifi) | Closed-Source, Free |
 | **Techui-Admin** | Workbench Component Library | [Gitee Link](https://gitee.com/ayin86/techui-admin) | [GitHub Link](https://github.com/aYin86cn/techui-admin) | Closed-Source, Free |
+| **Techui-Prime** | Full-featured component library | None | None | Closed-source, paid |
 
 > These repositories provide the test cases and quick start projects for the **third generation** of TechUI component libraries.
 
@@ -39,5 +40,6 @@ TechUI-Base **免费** 且功能非常强大，可以满足绝大多数类型的
 | **TechUI-Base** | 基础组件库 | [Gitee 链接](https://gitee.com/ayin86/techui-base) | [GitHub 链接](https://github.com/aYin86cn/techui-base) | 闭源、免费 |
 | **Techui-Scifi** | 科幻风格 SVG 组件库 | [Gitee 链接](https://gitee.com/ayin86/techui-scifi) | [GitHub 链接](https://github.com/aYin86cn/techui-scifi) | 闭源、免费 |
 | **Techui-Admin** | 工作台组件库 | [Gitee 链接](https://gitee.com/ayin86/techui-admin) | [GitHub 链接](https://github.com/aYin86cn/techui-admin) | 闭源、免费 |
+| **Techui-Prime** | 全功能版组件库 | 无 | 无 | 闭源、付费 |
 
 > 以上是 TechUI **第三代** 组件库的测试用例和快速启动工程。
