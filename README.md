@@ -6,7 +6,7 @@
 
 ## English
 
-## 📢 Important Announcement: TechUI Component Library Update
+## 📢 Important Announcement: TechUI-Toolkit been deprecated
 
 The **TechUI-Toolkit** component library has been deprecated and is now superseded by the brand-new **TechUI-Base** component library.
 
@@ -26,7 +26,7 @@ TechUI-Base is **free** and offers powerful functionality capable of meeting the
 
 ## 中文
 
-## 📢 重要通知：TechUI 组件库更新
+## 📢 重要通知：TechUI-Toolkit 现已废弃
 
 **TechUI-Toolkit** 组件库现已废弃，已被全新的 **TechUI-Base** 组件库所取代。
 
