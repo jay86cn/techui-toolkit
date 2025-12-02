@@ -28,7 +28,6 @@ const router = createRouter({
       name: "panel3D",
       component:()=>import("@/view/panel3D/panel3D-index.vue"),
     },
-    
   ]
 });
 

@@ -6,7 +6,6 @@
   import banner03 from "@/assets/images/banner03.png"
   import banner04 from "@/assets/images/banner04.png"
   const swipeImages=[banner01,banner02,banner04,banner03]
-
   import bannerSmall01 from "@/assets/images/banner-small01.png"
 
   const state=reactive({
@@ -78,14 +77,14 @@
 
 <template>
   <div class="dept-wrap">
-
+    
     <van-swipe class="swipe" :autoplay="3000">
       <van-swipe-item v-for="(img,key) in swipeImages" :height="300" :key="key">
         <img :src="img" />
       </van-swipe-item>
     </van-swipe>
 
-    
+    <i class="i carbon:user-multiple"></i>
     <div class="chart-wrap">
       <van-grid class="counter-grid counter-single" :column-num="1" :border="false">
         <van-grid-item v-for="(item,index) in state.counter2" :key="index">
